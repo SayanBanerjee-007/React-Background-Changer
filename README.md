@@ -23,3 +23,7 @@ npm i
 Go the URL:
 
 > > http://localhost:3000
+
+## Preview
+
+![Website Preview](./website.png)
